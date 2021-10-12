@@ -1,2 +1,1 @@
-# Resume_DevosmitaChatterjee
-Resume
+# Resume
